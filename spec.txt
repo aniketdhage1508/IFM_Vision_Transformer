@@ -1,0 +1,24 @@
+Operating System: Linux
+OS Version: #132-Ubuntu SMP Thu Aug 29 13:45:52 UTC 2024
+Architecture: ('64bit', 'ELF')
+Processor: x86_64
+Node Name: viit
+CPU Info:
+  CPU Count: 40
+  CPU Frequency: 2557.90 MHz
+  CPU Usage: 14.0%
+GPU Info:
+  GPU 0:
+    GPU ID: 0
+    GPU Name: NVIDIA A100-PCIE-40GB
+    GPU Memory Total: 40960.0 MB
+    GPU Memory Free: 40239.0 MB
+    GPU Memory Used: 88.0 MB
+    GPU Load: nan%
+  GPU 1:
+    GPU ID: 1
+    GPU Name: NVIDIA A100-PCIE-40GB
+    GPU Memory Total: 40960.0 MB
+    GPU Memory Free: 40239.0 MB
+    GPU Memory Used: 88.0 MB
+    GPU Load: nan%
